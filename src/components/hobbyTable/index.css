@@ -1,0 +1,39 @@
+.btn-submit{
+  border: 0;
+  background: none;
+  display: block;
+  text-align: center;
+  width: 150px;
+  height: 30px;
+  outline: none;
+  color: white;
+  border-radius: 6px;
+  transition: 0.25s;
+  background: blue;
+  cursor: pointer;
+}
+
+.btn-submit:hover {
+  background: #8bc53f;
+  
+}
+
+.btn-dlt{
+  border: 0;
+  background: none;
+  /* display: block; */
+  text-align: center;
+  /* width: 75px; */
+  /* height: 30px; */
+  outline: none;
+  color: white;
+  border-radius: 6px;
+  transition: 0.25s;
+  background: red;
+  cursor: pointer;
+}
+
+/* .btn-submit:hover {
+  background: #8bc53f;
+  
+} */

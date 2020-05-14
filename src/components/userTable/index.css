@@ -1,0 +1,14 @@
+.btn-add{
+  border: 0;
+  background: none;
+  display: block;
+  text-align: center;
+  width: 150px;
+  height: 30px;
+  outline: none;
+  color: white;
+  border-radius: 6px;
+  transition: 0.25s;
+  background: blue;
+  cursor: pointer;
+}
